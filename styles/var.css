@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+    --font-principal: 'Inter', sans-serif;
+
+    --branco-principal: #fff;
+    --cinza-secundario: #c0c0c0;
+    --cor-do-botao: #167BF7;
+    --cor-de-fundo: #00030c;
+    --cor-do-botao-efeito: #3c92fa;
+}
+
